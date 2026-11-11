@@ -2,7 +2,7 @@
 
 ## Steps to Deploy
 
-1. **Build the Application:**
+1. **Build the Application: command**
    ```bash
    mvn clean package
    ```
